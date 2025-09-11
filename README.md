@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# README
-=======
 <h1 align="center">🚀LoNebula🛰️</h1>
 
 <ul>
