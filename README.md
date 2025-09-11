@@ -11,7 +11,7 @@
   <img src="./space_probe.gif" width="320" />
 </p>
 
-<p align="left" >
+<p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
@@ -25,7 +25,7 @@
   <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a>
 </p>
 
-<h3 align="left">Highlights</h3>
+<h3 align="left">✌️ Highlights</h3>
 - Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
 - Background: Studied rocket propulsion during my undergraduate studies.<br>
 - Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
@@ -60,18 +60,21 @@
   </tr>
 </table>
 
-<p align="left">
-  <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-  </picture>
-  <picture>
-   	<source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
-	<source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
-	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-  </picture>
-</p>
+<details>
+  <summary>☄️ GitHub Stats</summary>
+  <p align="center">
+    <picture>
+          <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/metrics.base.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)"  srcset="output/details.svg" width="400" />
+    <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
+    <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+    </picture>
+  </p>
+</details>
 
 <p align="center">
   <img alt="Gold Trophy" src="https://img.shields.io/badge/%E2%98%86_Gold_Trophy-Winner-ffd700?style=flat-square&logo=appveyor" />
