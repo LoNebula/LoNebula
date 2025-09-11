@@ -1,6 +1,8 @@
 <h1 align="center">🚀LoNebula🛰️</h1>
 
-
+<p align="center">
+  <img src="./space_probe.gif" width="320" />
+</p>
 
 <ul>
   <li>I am a graduate student.</li>
