@@ -1,5 +1,7 @@
 <h1 align="center">🚀LoNebula🛰️</h1>
 
+
+
 <ul>
   <li>I am a graduate student.</li>
   <li>I love space and astronomy.</li>
@@ -54,13 +56,3 @@
   <img alt="Bronze" src="https://img.shields.io/badge/%E2%98%86_2025-Recognized-d2691e?style=flat-square&logo=github" />
   <img src="https://komarev.com/ghpvc/?username=LoNebula&label=Profile%20views&color=0e75b6&style=flat" alt="LoNebula" /> 
 </p>
-
-<details>
-  <summary>🔥 Recent Contributions</summary>
-  
-  [![LoNebula's github activity graph](https://github-readme-activity-graph.LoNebula.me/graph?username=LoNebula&theme=react-dark&area=true&hide_border=true)][home-repo-url]
-
-[![3d contributions](https://raw.githubusercontent.com/LoNebula/metrics/main/profile-3d-contrib/profile-LoNebula.svg)][home-repo-url]
-
-</details>
->>>>>>> a66d0f0 (first commit)
