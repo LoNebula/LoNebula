@@ -41,7 +41,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cmake,css,discord,django,docker,emacs,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,instagram,js,java,kali,jquery,kotlin,kubernetes,linkedin,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,opencv,php,pkl,py,pycharm,pytorch,react,ruby,rust,spring,stackoverflow,sklearn,selenium,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cmake,css,discord,django,docker,emacs,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,instagram,js,java,kali,jquery,kotlin,kubernetes,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,opencv,php,py,pycharm,pytorch,react,spring,stackoverflow,sklearn,selenium,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
     </td>
   </tr>
   <tr>
