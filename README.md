@@ -1,4 +1,4 @@
-<h1 align="center">🚀LoNebula🛰️</h1>
+<h1 align="center">🚀Shogo Miyawaki🛰️</h1>
 
 <ul>
   <li>I am a graduate student.</li>
@@ -6,10 +6,6 @@
   <li>I run a blog — please take a look: <a href="https://note.com/lo_nebula">Blog</a></li>
   <li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li>
 </ul>
-
-<p align="center">
-  <img src="./space_probe.gif" width="320" />
-</p>
 
 <p align="center" >
 	<picture>
