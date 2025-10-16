@@ -4,7 +4,7 @@
   <li>I am a graduate student.</li>
   <li>I love space and astronomy.</li>
   <li>I run a blog — please take a look: <a href="https://note.com/lo_nebula">Blog</a></li>
-  <li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li>
+  <li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li> and <a href="https://huggingface.co/LoNebula">Hugging Face</a>
 </ul>
 
 <p align="center" >
@@ -19,6 +19,7 @@
   <a href="https://github.com/LoNebula"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LoNebula?label=Follow&style=social"></a>
   <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-blue?style=flat-square"></a>
   <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a>
+  <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
 </p>
 
 <h3 align="left">✌️ Highlights</h3>
