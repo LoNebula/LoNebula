@@ -25,7 +25,7 @@
   <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
 </p>
 
-<h3 align="left">✌️ Highlights</h3>
+### ✌️ Highlights
 - Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
 - Background: Studied rocket propulsion during my undergraduate studies.<br>
 - Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
