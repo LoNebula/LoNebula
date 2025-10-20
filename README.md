@@ -7,6 +7,9 @@
   <li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li> and <a href="https://huggingface.co/LoNebula">Hugging Face</a>
 </ul>
 
+<!--   my-ticker -->    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
