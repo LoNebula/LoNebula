@@ -30,7 +30,7 @@
 - Background: Studied rocket propulsion during my undergraduate studies.<br>
 - Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
 
-![BEPb's github activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+![LoNebula's github activity graph](https://raw.githubusercontent.com/B/BEPb/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me</h3>
 <p>
