@@ -85,6 +85,7 @@
 <p>
   <a href="https://note.com/lo_nebula">📝 Note</a> ·
   <a href="https://www.kaggle.com/shogomiyawaki">🏆 Kaggle</a> ·
+  <a href="https://huggingface.co/LoNebula">🤗 Hugging Face</a> ·
   <a href="https://github.com/LoNebula">💻 GitHub</a>
 </p>
 
