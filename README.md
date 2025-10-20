@@ -73,8 +73,6 @@
   </tr>
 </table>
 <br><br>
-
-
 </div>
 
 <picture>
