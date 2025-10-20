@@ -30,6 +30,8 @@
 - Background: Studied rocket propulsion during my undergraduate studies.<br>
 - Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
+
 <h3 align="left">Connect with me</h3>
 <p>
   <a href="https://note.com/lo_nebula">📝 Note</a> ·
