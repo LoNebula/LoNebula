@@ -60,7 +60,7 @@
   </tr>
 </table>
 
-<summary>☄️ GitHub Stats</summary>
+## ☄️ GitHub Stats
 <p align="center">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
