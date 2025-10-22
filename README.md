@@ -77,7 +77,7 @@
 <br><br>
 </div>
 
-## Languages and Tools:
+## 🖥️ Languages and Tools:
 <table>
   <tr>
     <td colspan="2">
