@@ -25,6 +25,7 @@
 | **Background** | Studied rocket propulsion during my undergraduate studies. |
 | **Side projects** | I write occasional technical posts and practical walkthroughs on my blog to share what I've learned. |
 
+## 🏄 Contributions
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
