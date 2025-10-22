@@ -81,14 +81,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
 
-## Connect with me
-<p>
-  <a href="https://note.com/lo_nebula">📝 Note</a> ·
-  <a href="https://www.kaggle.com/shogomiyawaki">🏆 Kaggle</a> ·
-  <a href="https://huggingface.co/LoNebula">🤗 Hugging Face</a> ·
-  <a href="https://github.com/LoNebula">💻 GitHub</a>
-</p>
-
 ## Languages and Tools:
 <table>
   <tr>
@@ -124,6 +116,14 @@
   <source media="(prefers-color-scheme: light)" srcset="output/details.svg" width="400" />
   <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
   </picture>
+</p>
+
+## Connect with me
+<p>
+  <a href="https://note.com/lo_nebula">📝 Note</a> ·
+  <a href="https://www.kaggle.com/shogomiyawaki">🏆 Kaggle</a> ·
+  <a href="https://huggingface.co/LoNebula">🤗 Hugging Face</a> ·
+  <a href="https://github.com/LoNebula">💻 GitHub</a>
 </p>
 
 <p align="center">
