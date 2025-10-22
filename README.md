@@ -32,22 +32,6 @@
   </td>
 </tr>
 
-## 🏄 Contributions
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
-	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
-	</picture>
-</p>　
-
-<p align="center">
-  <a href="https://github.com/LoNebula"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LoNebula?label=Follow&style=social"></a>
-  <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-blue?style=flat-square"></a>
-  <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a>
-  <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
-</p>
-
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -92,6 +76,22 @@
 </table>
 <br><br>
 </div>
+
+## 🏄 Contributions
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
+	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
+	</picture>
+</p>　
+
+<p align="center">
+  <a href="https://github.com/LoNebula"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LoNebula?label=Follow&style=social"></a>
+  <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-blue?style=flat-square"></a>
+  <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a>
+  <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
