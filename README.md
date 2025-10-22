@@ -10,6 +10,8 @@
 | **Age** | 24 |
 | **Country** | Japan |
 | **Occupation** | Graduate student |
+| **Major** | Computer Science |
+| **College** | Japan Advanced Institute of Science and Technology |
 | **Hobby** | Space and astronomy |
 | **Blog** | <a href="https://note.com/lo_nebula">Blog</a> |
 | **Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a> |
