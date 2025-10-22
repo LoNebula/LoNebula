@@ -25,6 +25,7 @@
 | **Background** | Studied rocket propulsion during my undergraduate studies. |
 | **Side projects** | I write occasional technical posts and practical walkthroughs on my blog to share what I've learned. |
 
+## 🏆 Activity
 <tr>
   <td colspan="2" align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoNebula&theme=dark_lover&column=5" alt="LoNebula" /></a>
