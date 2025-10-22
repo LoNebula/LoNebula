@@ -8,7 +8,7 @@
 | --- | --- |
 | **🥷Name** | Shogo Miyawaki |
 | **⌛Age** | 24 |
-| *🗺️Country** | Japan |
+| **🗺️Country** | Japan |
 | **🥇Occupation** | Graduate student |
 | **🧑‍💻Major** | Computer Science |
 | **🏫College** | Japan Advanced Institute of Science and Technology |
