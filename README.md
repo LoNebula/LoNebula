@@ -77,6 +77,24 @@
 <br><br>
 </div>
 
+## Languages and Tools:
+<table>
+  <tr>
+    <td colspan="2">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cmake,css,discord,django,docker,emacs,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,instagram,js,java,kali,jquery,kotlin,kubernetes,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,opencv,php,py,pycharm,pytorch,react,spring,stackoverflow,sklearn,selenium,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoNebula&show_icons=true&locale=en&layout=compact&theme=dark" alt="LoNebula" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LoNebula&show_icons=true&locale=en&theme=dark" alt="LoNebula" />
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoNebula&theme=dark" alt="LoNebula" />
+    </td>
+  </tr>
+</table>
+
 ## 🏄 Contributions
 <p align="center" >
 	<picture>
@@ -98,24 +116,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
 </picture>
-
-## Languages and Tools:
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cmake,css,discord,django,docker,emacs,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,instagram,js,java,kali,jquery,kotlin,kubernetes,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,opencv,php,py,pycharm,pytorch,react,spring,stackoverflow,sklearn,selenium,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoNebula&show_icons=true&locale=en&layout=compact&theme=dark" alt="LoNebula" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LoNebula&show_icons=true&locale=en&theme=dark" alt="LoNebula" />
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoNebula&theme=dark" alt="LoNebula" />
-    </td>
-  </tr>
-</table>
 
 ## ☄️ GitHub Stats
 <p align="center">
