@@ -1,4 +1,4 @@
-<h1 align="center">🚀Shogo Miyawaki🛰️</h1>
+<h1 align="center">🏄‍♂️Shogo Miyawaki🏄‍♂️</h1>
 
 <ul>
   <li>I am a graduate student.</li>
