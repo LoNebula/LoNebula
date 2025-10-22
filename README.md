@@ -4,10 +4,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+✌️,+I+am+Shogo+Miyawaki;+🚀+Welcome+to+My+Profile!+☄️;Always+learning+new+things;Machine+learning+enthusiast)](https://git.io/typing-svg)
 
 ## 🏄‍♂️ About me
-<li>I am a graduate student.</li>
-<li>I love space and astronomy.</li>
-<li>I run a blog — please take a look: <a href="https://note.com/lo_nebula">Blog</a></li>
-<li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li> and <a href="https://huggingface.co/LoNebula">Hugging Face</a>
+| | |
+| --- | --- |
+| **Name** | Shogo Miyawaki |
+| **Age** | 24 |
+| **Country** | Japan |
+| **Occupation** | Graduate student |
+| **Hobby** | Space and astronomy |
+| **Blog** | <a href="https://note.com/lo_nebula">Blog</a> |
+| **Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a> |
+| **Hugging Face** | <a href="https://huggingface.co/LoNebula">Hugging Face</a> |
+| **Want to be** | AI specialist |
 
 ## ✌️ Highlights
 - Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
