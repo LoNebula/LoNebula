@@ -12,7 +12,7 @@
 | **Occupation** | Graduate student |
 | **Major** | Computer Science |
 | **College** | Japan Advanced Institute of Science and Technology |
-| **Hobby** | Space, astronomy, Workout, Reading, Watching sea, Playing sports |
+| **Hobby** | Space, astronomy, Workout, Study,Reading, Watching sea, Playing sports |
 | **Blog** | <a href="https://note.com/lo_nebula">Blog</a> |
 | **Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a> |
 | **Hugging Face** | <a href="https://huggingface.co/LoNebula">Hugging Face</a> |
