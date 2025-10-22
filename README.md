@@ -19,9 +19,11 @@
 | **Want to be** | AI specialist |
 
 ## ✌️ Highlights
-- Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
-- Background: Studied rocket propulsion during my undergraduate studies.<br>
-- Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
+| | |
+| --- | --- |
+| **Currently** | Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel. |
+| **Background** | Studied rocket propulsion during my undergraduate studies. |
+| **Side projects** | I write occasional technical posts and practical walkthroughs on my blog to share what I've learned. |
 
 <p align="center" >
 	<picture>
