@@ -10,6 +10,11 @@
   <li>I am aiming to become an AI specialist — check out my Kaggle: <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a></li> and <a href="https://huggingface.co/LoNebula">Hugging Face</a>
 </ul>
 
+## ✌️ Highlights
+- Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
+- Background: Studied rocket propulsion during my undergraduate studies.<br>
+- Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
+
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
@@ -24,11 +29,6 @@
   <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a>
   <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
 </p>
-
-## ✌️ Highlights
-- Currently: Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel.<br>
-- Background: Studied rocket propulsion during my undergraduate studies.<br>
-- Side projects: I write occasional technical posts and practical walkthroughs on my blog to share what I've learned.
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
