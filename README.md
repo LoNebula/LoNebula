@@ -14,8 +14,8 @@
 | **🏫College** | Japan Advanced Institute of Science and Technology |
 | **👾Hobby** | Space, astronomy, Workout, Study,Reading, Watching sea, Playing sports |
 | **📔Blog** | <a href="https://note.com/lo_nebula">Note</a>, <a href="https://zenn.dev/lonebula">Zenn</a> |
-| **🏆Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a> |
-| **🤗Hugging Face** | <a href="https://huggingface.co/LoNebula">Hugging Face</a> |
+| **🏆Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-orange?style=flat-square"></a> |
+| **🤗Hugging Face** | <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>|
 | **🧑‍🚀Want to be** | AI specialist and Astronaut |
 | **Currently** | Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel. |
 | **Background** | Studied rocket propulsion during my undergraduate studies. |
