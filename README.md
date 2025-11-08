@@ -127,16 +127,8 @@
   </picture>
 </p>
 
-## Connect with me
-<p>
-  <a href="https://note.com/lo_nebula">📝 Note</a> ·
-  <a href="https://zenn.dev/lonebula">📔 Zenn</a> ·
-  <a href="https://www.kaggle.com/shogomiyawaki">🏆 Kaggle</a> ·
-  <a href="https://huggingface.co/LoNebula">🤗 Hugging Face</a> ·
-  <a href="https://github.com/LoNebula">💻 GitHub</a>
-</p>
-
 <p align="center">
+  <a href="https://github.com/LoNebula"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LoNebula?label=Follow&style=social"></a>
   <img alt="Gold Trophy" src="https://img.shields.io/badge/%E2%98%86_Gold_Trophy-Winner-ffd700?style=flat-square&logo=appveyor" />
   <img alt="Silver" src="https://img.shields.io/badge/%E2%98%86_Silver-Level%20Up-c0c0c0?style=flat-square&logo=git" />
   <img alt="Bronze" src="https://img.shields.io/badge/%E2%98%86_2025-Recognized-d2691e?style=flat-square&logo=github" />
