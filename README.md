@@ -17,10 +17,6 @@
 | **🏆Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki">Kaggle</a> |
 | **🤗Hugging Face** | <a href="https://huggingface.co/LoNebula">Hugging Face</a> |
 | **🧑‍🚀Want to be** | AI specialist and Astronaut |
-
-## ✌️ Highlights
-| | |
-| --- | --- |
 | **Currently** | Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel. |
 | **Background** | Studied rocket propulsion during my undergraduate studies. |
 | **Side projects** | I write occasional technical posts and practical walkthroughs on my blog to share what I've learned. |
