@@ -16,6 +16,7 @@
 | **📔Blog** | <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-white?style=flat-square"></a><br><a href="https://zenn.dev/lonebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Zenn-blue?style=flat-square"></a> |
 | **🏆Kaggle** | <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-Profile-skyblue?style=flat-square"></a> |
 | **🤗Hugging Face** | <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>|
+|**🖲️picoCTF**| <a href="https://play.picoctf.org/account"><img alt="picoCTF" src="https://play.picoctf.org/"></a>|
 | **🧑‍🚀Want to be** | AI specialist and Astronaut |
 | **🔭 Currently** | Building multimodal AI that deciphers canine emotions — fusing vision, audio, and behavioral signals to understand how dogs feel. |
 | **🦾 Background** | Studied rocket propulsion during my undergraduate studies. |
