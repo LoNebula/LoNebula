@@ -21,13 +21,6 @@
 | **🦾 Background** | Studied rocket propulsion during my undergraduate studies. |
 | **🧪 Side projects** | I write occasional technical posts and practical walkthroughs on my blog to share what I've learned. |
 
-## 🏆 Active
-<tr>
-  <td colspan="2" align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoNebula&theme=dark_lover&column=5" alt="LoNebula" /></a>
-  </td>
-</tr>
-
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -79,16 +72,6 @@
     <td colspan="2">
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cmake,css,discord,django,docker,emacs,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,instagram,js,java,kali,jquery,kotlin,kubernetes,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,opencv,php,py,pycharm,pytorch,react,spring,stackoverflow,sklearn,selenium,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoNebula&show_icons=true&locale=en&layout=compact&theme=dark" alt="LoNebula" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LoNebula&show_icons=true&locale=en&theme=dark" alt="LoNebula" />
-      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=LoNebula&theme=dark" alt="LoNebula" />
-    </td>
-  </tr>
 </table>
 
 ## ☄️ GitHub Stats
