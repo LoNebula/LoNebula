@@ -13,7 +13,7 @@
    <a href="https://zenn.dev/lonebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Zenn-blue?style=flat-square"></a>
    <a href="https://www.kaggle.com/shogomiyawaki"><img alt="Kaggle" src="https://img.shields.io/badge/Competitions-Kaggle-skyblue?style=flat-square"></a>
    <a href="https://solafune.com/ja/account/LoNebula"><img alt="Solafune" src="https://img.shields.io/badge/Competitions-Solafune-green?style=flat-square"></a>
-   <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Profile-orange?style=flat-square"></a>
+   <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Profile-Hugging%20Face-orange?style=flat-square"></a>
 </p>　
 
 ## 🖥️ Languages and Tools:
