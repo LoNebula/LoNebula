@@ -36,11 +36,3 @@
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/username/username/output-3d-contrib/day.svg" />
 	</picture>
 </p>　
-
-<p align="center">
-  <img alt="Gold Trophy" src="https://img.shields.io/badge/%E2%98%86_Gold_Trophy-Winner-ffd700?style=flat-square&logo=appveyor" />
-  <img alt="Silver" src="https://img.shields.io/badge/%E2%98%86_Silver-Level%20Up-c0c0c0?style=flat-square&logo=git" />
-  <img alt="Bronze" src="https://img.shields.io/badge/%E2%98%86_2025-Recognized-d2691e?style=flat-square&logo=github" />
-  <img src="https://komarev.com/ghpvc/?username=LoNebula&label=Profile%20views&color=0e75b6&style=flat" alt="LoNebula" /> 
-  <a href="https://github.com/LoNebula"><img alt="GitHub followers" src="https://img.shields.io/github/followers/LoNebula?label=Follow&style=social"></a>
-</p>
