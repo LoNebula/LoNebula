@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ffff&center=true&vCenter=true&width=600&lines=🏄‍♂️+Hi+✌️,+Shogo+Miyawaki+🏄‍♂️)](https://git.io/typing-svg)
+🏄‍♂️+Hi+✌️,+Shogo+Miyawaki+🏄‍♂️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+profile!+☄️;🪼+I'm+currently+a+graduate+student;🧞+I+want+to+find+aliens+and+create+autonomous+AI;✍️+I+also+have+a+blog;so+please+check+it+out)](https://git.io/typing-svg)
 
