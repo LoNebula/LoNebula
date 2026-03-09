@@ -8,6 +8,7 @@
 
 <p align="center" >
 	 <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-white?style=flat-square"></a>
+   <a href="https://zenn.dev/lonebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Zenn-blue?style=flat-square"></a>
 </p>　
 
 ## 🏄‍♂️ About me
