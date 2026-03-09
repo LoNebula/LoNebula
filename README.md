@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ffff&center=true&vCenter=true&width=600&lines=🏄‍♂️+Hi+✌️,+Shogo+Miyawaki+🏄‍♂️)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+✌️,I'm+Shogo+Miyawaki;🚀+Welcome+to+my+profile!+☄️;🪼+I'm+currently+a+graduate+student;🧞+I+want+to+find+aliens+and+create+autonomous+AI;✍️+I+also+have+a+blog;so+please+check+it+out;⛱️+Note:+https://note.com/lo_nebula;👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=🚀+Welcome+to+my+profile!+☄️;🪼+I'm+currently+a+graduate+student;🧞+I+want+to+find+aliens+and+create+autonomous+AI;✍️+I+also+have+a+blog;so+please+check+it+out)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ff7f&center=true&vCenter=true&width=600&lines=⛱️+Note:+https://note.com/lo_nebula;👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ff7f&center=true&vCenter=true&width=600&lines=⛱️+Note:+https://note.com/lo_nebula)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffff00&center=true&vCenter=true&width=600&lines=👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
 
