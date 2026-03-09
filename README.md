@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300ff7f&center=true&vCenter=true&width=600&lines=⛱️+Note:+https://note.com/lo_nebula;👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23006400&center=true&vCenter=true&width=600&lines=👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffff00&center=true&vCenter=true&width=600&lines=👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
 
 ## 🏄‍♂️ About me
 | | |
