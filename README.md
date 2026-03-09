@@ -6,6 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23ffff00&center=true&vCenter=true&width=600&lines=👾+Zenn:+https://zenn.dev/lonebula)](https://git.io/typing-svg)
 
+<p align="center" >
+	 <a href="https://note.com/lo_nebula"><img alt="Blog" src="https://img.shields.io/badge/Blog-Note-white?style=flat-square"></a>
+</p>　
+
 ## 🏄‍♂️ About me
 | | |
 | --- | --- |
