@@ -10,14 +10,6 @@
    <a href="https://huggingface.co/LoNebula"><img alt="Hugging Face" src="https://img.shields.io/badge/Profile-Hugging%20Face-orange?style=flat-square"></a>
 </p>　
 
-## 🖥️ Languages and Tools:
-<table>
-  <tr>
-    <td colspan="2">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda,androidstudio,apple,arduino,aws,azure,bash,blender,c,cpp,clion,cloudflare,cmake,css,discord,django,docker,emacs,fastapi,figma,firebase,flask,gcp,git,github,gmail,gitlab,html,htmx,instagram,js,java,kali,jquery,kotlin,kubernetes,linkedin,linux,md,matlab,mysql,nextjs,nodejs,notion,npm,obsidian,opencv,php,py,pycharm,pytorch,powershell,react,spring,stackoverflow,sklearn,selenium,svg,swift,tailwind,tensorflow,twitter,ts,ubuntu,unity,unreal,vim,visualstudio,vercel,vscode,windows,wordpress," alt="My Skills" /></a>
-    </td>
-</table>
-
 <p align="center" >
 	<picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
