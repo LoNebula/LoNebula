@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,ts,vscode,docker&theme=dark" alt="Python, PyTorch, TypeScript, VS Code, Docker" />
+  <img src="./stack.svg" alt="Python, PyTorch, NumPy, pandas, scikit-learn, Jupyter, TypeScript, Docker, Neovim, Cursor" height="48" />
 </p>
 
 <p align="center">
